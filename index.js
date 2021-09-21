@@ -1,5 +1,7 @@
 const express = require('express')
 
+const mySecret = process.env['TOKEN']
+
 const app = express();
 
 const port = 3000
