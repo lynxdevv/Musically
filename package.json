@@ -5,13 +5,13 @@
   "main": "index.js",
   "author": "Erit Islami <eritislami@gmail.com>",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
+  "homepage": "https://github.com/Lynx-offl/Musically",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eritislami/evobot.git"
+    "url": "git+https://github.com/Lynx-offl/Musically"
   },
   "bugs": {
-    "url": "https://github.com/eritislami/evobot/issues"
+    "url": "https://github.com/Lynx-offl/Musically/issues"
   },
   "engines": {
     "node": ">=12.0.0"
